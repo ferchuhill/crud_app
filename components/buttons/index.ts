@@ -1,2 +1,2 @@
 export * from './ButtonLink';
-export * from './button';
+export * from './Button';
